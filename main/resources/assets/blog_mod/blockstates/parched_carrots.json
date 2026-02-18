@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "blog_mod:block/parched_carrots_stage0"
+    },
+    "age=1": {
+      "model": "blog_mod:block/parched_carrots_stage0"
+    },
+    "age=2": {
+      "model": "blog_mod:block/parched_carrots_stage1"
+    },
+    "age=3": {
+      "model": "blog_mod:block/parched_carrots_stage1"
+    },
+    "age=4": {
+      "model": "blog_mod:block/parched_carrots_stage2"
+    },
+    "age=5": {
+      "model": "blog_mod:block/parched_carrots_stage2"
+    },
+    "age=6": {
+      "model": "blog_mod:block/parched_carrots_stage2"
+    },
+    "age=7": {
+      "model": "blog_mod:block/parched_carrots_stage3"
+    }
+  }
+}
