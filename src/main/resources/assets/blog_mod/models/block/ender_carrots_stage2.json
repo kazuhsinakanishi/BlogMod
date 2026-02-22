@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "blog_mod:block/ender_carrots_stage2"
+  }
+}
